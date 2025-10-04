@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 599000,
+    "category": "Electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1505740106531-4243f3831c78?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Headphones wireless dengan kualitas suara premium dan baterai tahan lama."
+  },
+  {
+    "id": 2,
+    "name": "Camera",
+    "price": 799000,
+    "category": "Electronics",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1667538962342-2d9937f014d9?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1667538960104-25726d82a6e5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Camera profesional dengan kombinasi warna hitam dan silver"
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch",
+    "price": 1299000,
+    "category": "Electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1647523408807-247707346b8a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1646310200406-85f2d54e819a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1485206542366-16d53f333d1c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Smartwatch dengan fitur kesehatan dan notifikasi pintar."
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "price": 1299000,
+    "category": "Electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?q=80&w=1532&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Laptop dengan spesifikasi tinggi."
+  },
+  {
+    "id": 5,
+    "name": "Mini Fan",
+    "price": 1299000,
+    "category": "Electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1564510182791-29645da7fac4?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Smartwatch dengan fitur kesehatan dan notifikasi pintar."
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "price": 1299000,
+    "category": "Electronics",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1683133215610-854ad000bba1?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1717295248230-93ea71f48f92?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Smartwatch dengan fitur kesehatan dan notifikasi pintar."
+  }
+]
