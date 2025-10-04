@@ -32,7 +32,7 @@ export default function ProductDetail() {
   const images = product.images || [product.image];
 
   return (
-    <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+    <div className="max-w-screen-xl mx-auto px-0 sm:px-6 lg:px-8 py-6">
       <div className="grid gap-8 md:grid-cols-2">
         {/* Slider Foto Produk */}
         <div className="flex justify-center">
